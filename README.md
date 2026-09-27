@@ -8,15 +8,15 @@ to a text file.
 
 ## 📌 Features
 
-- 🐕 ASCII dog companion
-- 🔤 Enter 7 words, numbers, or symbols
-- 🔢 Generate combinations
-- 📊 Show statistics
-- 📏 Estimate output file size
-- 💾 Save combinations to a text file
-- 📈 Show generation progress
-- ⏱️ Show generation time
-- 🛑 Stop generation with `Ctrl+C`
+- ASCII dog companion
+-  Enter 7 words, numbers, or symbols
+-  Generate combinations
+-  Show statistics
+-  Estimate output file size
+-  Save combinations to a text file
+-  Show generation progress
+-  Show generation time
+-  Stop generation with `Ctrl+C`
 
 ## 🛠️ Requirements
 
