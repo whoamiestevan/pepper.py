@@ -1,6 +1,6 @@
 # 🐕 Pepper.py
 
-Python combination generator with a dog companion.
+A Python combination generator that creates and saves combinations from user-provided inputs.
 
 ## Features
 
