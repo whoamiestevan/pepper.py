@@ -1,6 +1,6 @@
 # 🐕 Pepper.py
 
-A Python combination generator that creates and saves combinations from user-provided inputs.
+A Python combination generator built through vibe coding and AI-assisted development.
 
 ## Features
 
